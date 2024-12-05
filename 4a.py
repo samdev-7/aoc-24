@@ -1,6 +1,3 @@
-from re import S
-
-
 data = []
 
 with open("4in.txt", "r") as f:
